@@ -6,3 +6,4 @@ __4__- <a href="https://github.com/Ahmadjajja/SMIT-WMA-6-A-E/blob/main/Assignmen
 __5__- <a href="https://github.com/Ahmadjajja/SMIT-WMA-6-A-E/blob/main/Assignments/JavascriptAssignment10.md" target="_blank" style="font-size: 16px;dispaly:inline-block;">_Functions & Date_Handling_</a> <br/>
 __6__- <a href="https://github.com/Ahmadjajja/SMIT-WMA-6-A-E/blob/main/Assignments/JavascriptAssignment11.md" target="_blank" style="font-size: 16px;dispaly:inline-block;">_Object Handling_</a> <br/>
 __7__- <a href="https://github.com/Ahmadjajja/SMIT-WMA-6-A-E/blob/main/Assignments/JavascriptAssignment12.md" target="_blank" style="font-size: 16px;dispaly:inline-block;">_String & Array Handling_</a> <br/>
+__8__- <a href="https://github.com/Ahmadjajja/Asynchronous_Javascript_Key_Material" target="_blank" style="font-size: 16px;dispaly:inline-block;">_Master Asynchronous JS_</a> <br/>
